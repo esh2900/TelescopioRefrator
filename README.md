@@ -5,7 +5,7 @@ Código Simples em C++ com algumas funcionalidades para dimensionar um Telescóp
 
 O diagrama acima mostra como as lentes devem ser posicionadas para o fucionamento do telescópio, é importatne se atentar a lente objetiva deve ser uma lente positiva, e a ocular por sua vez uma lente negativa.
 
-Todos os valores informados ao programa podem ser positivos, e é importante se atentar as unidades de medida indicadas.
+Todos os valores informados ao programa devem ser positivos, e é importante se atentar as unidades de medida indicadas.
 
 Por fim, um exemplo de linha de compilação para usar o programa:
 
