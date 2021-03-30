@@ -1,3 +1,5 @@
+// Código criado por https://github.com/esh2900
+// Email para contato brunogiulianism@hotmail.com
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -148,7 +150,7 @@ int main(){
 			cout << "Distancia Focal da Ocular(mm):" << endl;
 			cin >> DF_ocul;
 			
-			cout << "Tamanho Aproximado do Tubo = " << (DF_obj-DF_ocul)/1000.0 << "m" << endl;
+			cout << "Tamanho do Tubo = " << (DF_obj-DF_ocul)/1000.0 << "m" << endl;
 			separador();
 		}
 		else{
