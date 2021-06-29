@@ -9,4 +9,4 @@ Todos os valores informados ao programa devem ser positivos, e é importante se 
 
 Por fim, um exemplo de linha de compilação para usar o programa:
 
-> g++ -o prog -std=c++17 telescope(1).cpp -lm
+> g++ -o prog -std=c++17 telescope.cpp -lm
